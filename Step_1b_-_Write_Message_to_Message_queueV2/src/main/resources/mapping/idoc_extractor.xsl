@@ -160,7 +160,7 @@
         <xsl:param name="arg"/>
         <xsl:sequence
             select="
-                if ($arg = 'A') then
+                if ($arg = 'C') then
                     'Bank'
                 else
                     if ($arg = 'EM') then
