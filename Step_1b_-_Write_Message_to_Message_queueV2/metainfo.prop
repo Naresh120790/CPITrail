@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Tue Nov 10 13:03:56 UTC 2026
+description=Receives messages via Process Direct protocol, identifies type system and writes payload and header parameters into message queue
+source=ThirdParty
+target=SAPCloudPlatformIntegration

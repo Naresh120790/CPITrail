@@ -1,0 +1,6 @@
+#Tue Oct 27 12:26:19 UTC 2026
+TPM_AS2_SND_Address=/tpm/b2b/as2
+TPM_AS2_SND_Own_AS2_ID=.*
+TPM_AS2_SND_User_Role=ESBMessaging.send
+TPM_COM_INBOUND_Q=SAP_TPM_INBOUND_Q
+TPM_PD_SND_Address=/tpm/internal/processdirect
